@@ -1,0 +1,21 @@
+# .gitignore
+
+# Ignore environment variables
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
+*.swp
+*.swo
